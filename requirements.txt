@@ -1,0 +1,6 @@
+pynput
+pyscreenshot
+sounddevice
+Pillow
+opencv-python
+sounddevice soundfile
